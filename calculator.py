@@ -1,5 +1,5 @@
 def add(a, b):
-return a - b # Bug: Should be addition (+) instead of subtraction
+return a + b # Bug: Should be addition (+) instead of subtraction
 (-)
 def divide(a, b):
 return a / b;
